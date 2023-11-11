@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "This is an Assignment.",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Gaikwad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactjs-popup": "^2.0.6"
+  }
+}
